@@ -12,9 +12,9 @@
 ### 🌟 Connect With Me
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vayffwg3rZZiMjoycd1z"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="15%"></a>
-  <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="15%"></a>
-  <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="16%"></a>
-  <a href="https://x.com/silva_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="17%"></a>
+  <a href="https://www.instagram.com/lewislouis254?igsh=YzljYTk1ODg3Zg=="><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="15%"></a>
+  <a href="https://www.facebook.com/niccur.loui"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="16%"></a>
+  <a href="https://x.com/Louislewis254?t=NHZPQ0HJwjuDq8euJSmJkg&s=09"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="17%"></a>
 </p>
 
   <img src="http://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&pause=1000&color=1BAFBAFF&center=true&width=1000&height=100&multiline=false&lines=Welcome+to+sad demon's+bot+platform!;and+application+Developer+|+Bot+Creator+|+;Heading+to the+Future,+One+bot+at+a+Time💡;Stay+happy,+Stay+innovative!">
@@ -48,7 +48,7 @@
 | --- | --- | --- |
 | **UCHIHA Bot** | Feature-rich WhatsApp bot for auto-reactions, downloads, quotes, and more. | [Repo](https://github.com/saddemon1185/uchiha-md) |
 | **API Repository** | A collection of APIs hosted on Vercel for various applications. | [Vercel Site](https://uchiha-md-is.vercel.app) |
-
+| **NAUGHTY MD** | Naughty MD is a versatile WhatsApp bot designed to enhance your messaging experience. With multi-device support, it offers a range of features including automated responses, group management, and custom commands. Whether you're looking to streamline communication or add a touch of fun to your chats, Naughty MD has got you covered." |[repo](https://github.com/saddemon1185/Naughty-stories)
 
 ---
 
@@ -135,7 +135,7 @@ This 3D representation shows my coding journey over time. Visit the link for a r
 | [uchiha MD Bot](https://github.com/saddemon1185/uchiha-md-) | A WhatsApp bot with rich features for automated responses, media handling, and more. | Node.js, Baileys API |
 | [API Hub](https://uchiha-md-is.vercel.app) | A hub of APIs designed for streamlined access to various data services, hosted on Vercel. | JavaScript, Vercel, REST API |
 | [Darkweb browser hub](https://github.com/saddemon1185/darkweb-browser-hub) | A versatile browsing site  with unique interactive features and multi-language support. | Node.js, Baileys API, MongoDB |
-| [naughty stories](https://github.com/saddemon1185/naughty-stries) | An AI-powered platform for enhanced automation of romantic story posting and +18 pictures and videos. | reincarnated uchiha|
+| [naughty stories](https://github.com/saddemon1185/naughty-stories) | An AI-powered platform for enhanced automation of romantic story posting and +18 pictures and videos. | reincarnated uchiha|
 
 </div>
 
