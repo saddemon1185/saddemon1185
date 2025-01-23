@@ -1,11 +1,32 @@
 <img align="center" width="240" src="https://media1.tenor.com/m/nesdlcEueKQAAAAC/killua-gon.gif" />
 
+<h1 align="center">
+  <img
+    src="https://emojis.slackmojis.com/emojis/images/1643514732/7373/hand_wave.gif?1643514732"
+    width="30"
+  /> Hey! Welcome Nice to see you.
+</h1>
+<h1 align="center" style="color:purple;">I'm Reincarnated Uchiha<img
+    src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+    width="30"
+  /></h1>
+
+
 <h1 align="center"> SAD DEMON1185 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <p align="center">
    <a href="https://github.com/saddemon1185"><img title="Author" src="https://img.shields.io/badge/saddemon1185-black?style=for-the-badge&logo=Github"></a> <a href="https://www.whatsapp.com/channel/0029Vayffwg3rZZiMjoycd1z"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254757959246"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+
+     
+### Visitor's Count:
+
+<a align="center" href="https://profile-counter.glitch.me/{saddemon1185
+}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{saddemon1185}/count.svg)  
+</a>
 
   [![Sponsor Reincarnated uchiha](https://img.shields.io/badge/Sponsor-reincarnated_uchiha-important)](https://github.com/sponsors/saddemon1185)
 
@@ -165,3 +186,25 @@ This 3D representation shows my coding journey over time. Visit the link for a r
     <img src="https://img.shields.io/badge/naughty%20Stories-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
+
+
+<h2>saddemon's Github Stats and Activity</h2>
+
+<h3>uchiha's Streak Stats</h3>
+
+<p>
+    <img title="ЁЯФе Get streak stats for your profile at git.io/streak-stats" alt="uchiha's streak" src="https://streak-stats.demolab.com/?user=saddemon1185&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+<h3>uchiha's GitHub Profile Stats</h3>
+
+<img alt="uchiha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=saddemon1185&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+</br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saddemon1185&show_icons=true&locale=en&layout=compact" alt="saddemon1185" /></p>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+
+<img alt="uchiha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saddemon1185&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true">
