@@ -207,4 +207,3 @@ This 3D representation shows my coding journey over time. Visit the link for a r
 
 <br/>
 
-<img alt="uchiha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saddemon1185&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true">
